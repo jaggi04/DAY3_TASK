@@ -1,0 +1,56 @@
+{
+  "introduction": [{
+    "name": "Jag M",
+    "designation": "support associate",
+    "image": ""
+    "email": "mXXXXXXXXXX@gmail.com",
+    "phone": "XXXXXXXXXXXX2",
+    "summary": "aspiring full stack developer…",
+    "location": {
+      "address": "##########",
+      "postalCode": #######",
+      "city": "Arni",
+      "state": "Tamil Nadu",
+      "country": "California"]}
+    },
+    "profiles": [{
+      "network": "linkedin",
+      "username": "jag",
+      "url": "https://linkedin.com/jag"
+    }]
+  
+  "education": [{
+    "institution": " ANNA University",
+    "url": "https://annauniversity.com/",
+    "area": "CSE",
+    "studyType": "Bachelor",
+    "startDate": "2015-01-01",
+    "endDate": "2019-01-01",
+    "score": "4.0",
+ 
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": " speaker"
+  }],
+  "
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+    "name": "Project",
+    "description": "Description…",
+      
+  }]
+}
